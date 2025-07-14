@@ -24,7 +24,8 @@ This repository contains Java-based console applications completed as part of th
 ## 📁 How to Run
 1. Clone the repository
 2. Open in any Java IDE or terminal
-3. Compile using:
+3. Compile using: javac FileName.java
+                  java FileName
 
 ## 📜 Internship Details
 **Internship Provider:** CodSoft  
